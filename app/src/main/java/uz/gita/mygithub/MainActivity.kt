@@ -15,4 +15,9 @@ class MainActivity : AppCompatActivity() {
     fun simple(){
         Toast.makeText(this, "Nima gap", Toast.LENGTH_SHORT).show()
     }
+
+    fun simple2(){
+
+    }
+
 }
